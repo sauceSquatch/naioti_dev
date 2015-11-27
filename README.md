@@ -1,5 +1,5 @@
-# basic_project_boilerplate
-A simple empty project to start projects quickly
+# naioti_dev
+A simple empty project to test motion for naioti_dev
 #### Starting server
 simply run `gulp` and server should start if everything is installed.
 
